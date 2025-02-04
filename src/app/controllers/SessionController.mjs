@@ -21,8 +21,8 @@ class SessionController {
     // const token = await user.generateToken();
     return res.json({
       user: { id, name, email },
-      token: jwt.sign({ id }, authConfig.secret, {
-        expiresIn: authConfig.expiresIn
+      token: jwt.sign({ id }, process.env.SECRET_KEY, {
+        expiresIn: process.env.EXPIRE_IN
       })
     });
   }
