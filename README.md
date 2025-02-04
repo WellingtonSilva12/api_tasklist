@@ -67,7 +67,7 @@ A API estará rodando em http://localhost:3000
 
 
 ### **6️⃣ Testar a API**
-Você pode usar ferramentas como Postman ou Insomnia para testar as rotas da API.
+Você pode usar ferramentas como Postman, Insomnia ou extensão do Visual Studio Code para testar as rotas da API.
 
 ##### **💠Autenticação** 
 | Método | Rota                | Descrição                              |
