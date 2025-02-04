@@ -32,6 +32,7 @@ Este é um projeto de **API REST** para gerenciamento de tarefas, desenvolvido c
 ```bash
 git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
 cd NOME-DO-REPOSITORIO
+```bash
 
 ### **2️⃣ Instalar Dependências**
 ```bash
