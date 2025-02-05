@@ -53,13 +53,13 @@ DB_DIALECT=mysql
 PORT=3000
 ```
 
-### **4️⃣ Executar as Migrações do Sequelize
+### **4️⃣ Executar as Migrações do Sequelize**
 
 ```bash
 npx sequelize db:migrate
 ```
 
-### **5️⃣ Iniciar o servidor
+### **5️⃣ Iniciar o servidor**
 ```bash
 npm start
 ```
